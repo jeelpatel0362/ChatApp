@@ -39,4 +39,4 @@ https://github.com/user-attachments/assets/36a09376-3b5c-4317-85a8-087503f367d8
 ## Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/jeelpatel0362/ChatApp
