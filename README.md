@@ -8,12 +8,6 @@ ChatApp is a real-time messaging Android application that connects users through
 - 👤 **User Profiles** with customizable profile pictures
 - 📚 **Chat History** with last message previews and timestamps
 
-![7](https://github.com/user-attachments/assets/405b33aa-ebbe-411b-b556-cf0d5b9e7b85)
-![8](https://github.com/user-attachments/assets/809c4614-26d7-485f-a30e-c4ef1a0169a3)
-![9](https://github.com/user-attachments/assets/a5dcba71-167f-402a-9d03-2439659425be)
-![10](https://github.com/user-attachments/assets/5eac0ea9-4cac-4ccc-92a2-ae0b684c4339)
-
-
 ## Screenshots 📸
 | Splash Screen | Login Screen | SignUp Screen | Forget Password Screen | SignIn With Google |
 |---------------|-------------|------------|------|---------|
@@ -21,7 +15,7 @@ ChatApp is a real-time messaging Android application that connects users through
 
 | Home Screen | User List | Conversation | Profile | More |
 |---------------|-------------|------------|------|---------|
-| <img src="https://github.com/user-attachments/assets/ff66b6c1-9e6c-4edb-a260-f6db98214b4e" width="200"> | <img src="https://github.com/user-attachments/assets/2e2dc646-735b-4045-8041-e8ba1fb7e85f" width="200"> | <img src="https://github.com/user-attachments/assets/42d0686f-1e4f-494f-899d-063e555f9293" width="200"> | <img src="https://github.com/user-attachments/assets/7acfa892-e265-49fe-b1ab-7e55f8a7933d" width="200"> | <img src="https://github.com/user-attachments/assets/c139e82c-4711-4b85-8132-33c962eda08b" width="200"> |
+| <img src="https://github.com/user-attachments/assets/ff66b6c1-9e6c-4edb-a260-f6db98214b4e" width="200"> | <img src="https://github.com/user-attachments/assets/405b33aa-ebbe-411b-b556-cf0d5b9e7b85" width="200"> | <img src="https://github.com/user-attachments/assets/809c4614-26d7-485f-a30e-c4ef1a0169a3" width="200"> | <img src="https://github.com/user-attachments/assets/a5dcba71-167f-402a-9d03-2439659425be" width="200"> | <img src="https://github.com/user-attachments/assets/5eac0ea9-4cac-4ccc-92a2-ae0b684c4339" width="200"> |
 
 ## Demo Video 🎥
 
