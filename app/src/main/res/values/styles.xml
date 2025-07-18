@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyApp.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">#23b7fa</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="BottomNavShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">16dp</item>
+        <item name="cornerSizeTopRight">16dp</item>
+    </style>
+</resources>

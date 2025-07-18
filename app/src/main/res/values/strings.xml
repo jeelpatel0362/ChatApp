@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="todo">TODO</string>
+    <string name="app_logo">Chat App Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="or">OR</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="enter_your_email_to_receive_a_password_reset_link">Enter your email to receive a password reset link</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="error_auth_failed">Authentication failed</string>
+    <string name="error_invalid_credentials">Invalid email or password</string>
+    <string name="error_invalid_google_credentials">Invalid Google credentials</string>
+    <string name="error_google_auth_failed">Google authentication failed</string>
+    <string name="error_google_auth_error">Google authentication error: %1$s</string>
+    <string name="error_account_exists">Account already exists with different credentials</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_email_in_use">This email is already in use</string>
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_reset_email_failed">Failed to send password reset email</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
