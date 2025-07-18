@@ -23,7 +23,6 @@ https://github.com/user-attachments/assets/36a09376-3b5c-4317-85a8-087503f367d8
 
 ## Technologies Used 🛠️
 - **Kotlin** - Primary programming language  
-- **Retrofit** - HTTP client for API requests  
 - **ViewModel** - Manage UI-related data  
 - **LiveData** - Observable data holder  
 - **Navigation Component** - Fragment navigation  
