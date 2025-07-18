@@ -19,7 +19,7 @@ ChatApp is a real-time messaging Android application that connects users through
 
 ## Demo Video 🎥
 
-https://github.com/user-attachments/assets/36a09376-3b5c-4317-85a8-087503f367d8
+https://github.com/user-attachments/assets/ba79f540-8667-4bb2-8f82-3987ca17f71d
 
 ## Technologies Used 🛠️
 - **Kotlin** - Primary programming language  
