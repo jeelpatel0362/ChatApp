@@ -1,6 +1,7 @@
-package com.example.chatapp
+package com.example.chatapp.Repository
 
 import android.util.Log
+import com.example.chatapp.model.Message
 import com.example.chatapp.model.Chat
 import com.example.chatapp.model.User
 import com.google.firebase.firestore.DocumentSnapshot

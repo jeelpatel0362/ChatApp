@@ -12,7 +12,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.chatapp.Adapter.UserAdapter
-import com.example.chatapp.ChatRepository
+import com.example.chatapp.Repository.ChatRepository
 import com.example.chatapp.R
 import com.example.chatapp.model.User
 import com.google.firebase.auth.FirebaseAuth
@@ -113,10 +113,22 @@ class NewChatActivity : AppCompatActivity() {
             try {
                 val chatId = chatRepository.createNewChat(currentUserId, user.uid)
 
-                setResult(RESULT_OK, Intent().apply {
-                    putExtra("refreshNeeded", true)
-                })
+                // Open ChatConversationActivity
+                val intent = Intent(this@NewChatActivity, ChatConversationActivity::class.java).apply {
+                    putExtra("chatId", chatId)
+                    putExtra("userId", user.uid)
+                    putExtra("userName", user.name)
+                    if (user.profileImage.isNotEmpty()) {
+                        putExtra("profileImage", user.profileImage)
+                    }
+                    flags = Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_NEW_TASK
+                }
+                startActivity(intent)
+
+                // Notify parent activity to refresh
+                setResult(RESULT_OK)
                 finish()
+
             } catch (e: Exception) {
                 Log.e(TAG, "Error creating chat: ${e.message}")
                 Toast.makeText(

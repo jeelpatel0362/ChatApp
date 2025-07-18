@@ -13,7 +13,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.chatapp.Adapter.ChatAdapter
-import com.example.chatapp.ChatRepository
+import com.example.chatapp.Repository.ChatRepository
 import com.example.chatapp.R
 import com.example.chatapp.model.Chat
 import com.example.chatapp.ui.ChatConversationActivity

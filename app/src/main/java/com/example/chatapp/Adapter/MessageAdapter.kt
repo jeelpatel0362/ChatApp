@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.chatapp.Message
+import com.example.chatapp.model.Message
 import com.example.chatapp.R
 import java.text.SimpleDateFormat
 import java.util.*

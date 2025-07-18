@@ -12,8 +12,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.chatapp.Adapter.MessageAdapter
-import com.example.chatapp.ChatRepository
-import com.example.chatapp.Message
+import com.example.chatapp.Repository.ChatRepository
+import com.example.chatapp.model.Message
 import com.example.chatapp.R
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
