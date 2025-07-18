@@ -7,10 +7,6 @@ ChatApp is a real-time messaging Android application that connects users through
 - ⚡ **Real-Time Messaging** with Firebase Firestore
 - 👤 **User Profiles** with customizable profile pictures
 - 📚 **Chat History** with last message previews and timestamps
-- 💚 **Online Status** indicators
-- 🎨 **Material Design** with dark/light theme support
-- 📎 **Image Sharing** capability
-- 🔍 **Search Contacts** functionality
 
 ## Screenshots 📸
 | Splash Screen | Login Screen | SignUp Screen | Forget Password Screen | SignIn With Google |
